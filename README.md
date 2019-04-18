@@ -7,3 +7,4 @@ The executable file for the application can be found in the dist folder.
 
 The desktop application was created using Python - Tkinter.
 
+Any suggestions for improvement are welcome.
